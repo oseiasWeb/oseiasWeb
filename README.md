@@ -1,4 +1,4 @@
-## Ben-vindo(a) ao meu perfil, Oséias Nogueira 🚀🚀
+## Bem-vindo(a) ao perfil do Oséias Nogueira 🚀🚀
 
  <div>
   <a href="https://github.com/oseiasWeb">
