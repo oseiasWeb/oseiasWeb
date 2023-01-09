@@ -22,8 +22,8 @@
  
  </div>
 
- <div align="center">
+<div align="center">
 
-  ![Snake animation](https://github.com/oseiasWeb/oseiasWeb/blob/main/.github/workflows/cobrinha.yml)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
- </div>
+</div>
