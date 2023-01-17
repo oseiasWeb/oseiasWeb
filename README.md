@@ -1,4 +1,4 @@
- <h1 align="center">Bem-vindo(a) ao meu perfil 🖥️⌨️👨‍💻<h1>
+ <h1 align="center">Bem-vindo(a) ao meu perfil 🖥️⌨️<h1>
  <h3 align="center">Sou formado em sistema de informação (Bacharel), desenvolvedor Frontend e apaixonado por tecnologia.<h3>
   
  <div align="center">
