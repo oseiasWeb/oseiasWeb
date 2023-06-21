@@ -18,7 +18,7 @@
  </div><br>
 
  <div align="center"><br>
-   <p>⚔ Soft Skills:</p>
+   <h3>⚔ Soft Skills:</h3>
    <ul align="center">
     <li>Trabalho em equipe</li>
     <li>Facilidade na Comunicação Verbal.</li>
@@ -31,7 +31,7 @@
  </div>
  
 <div align="center"><br>
-   <p>👇 Segue o perfil das minhas redes sociais:</p>
+   <h3>👇 Segue o perfil das minhas redes sociais:</h3>
    <a href="https://www.linkedin.com/in/oseiasnogueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="mailto:oseias.n.m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/oseias.n.m/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
