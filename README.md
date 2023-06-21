@@ -1,5 +1,5 @@
- <h1 align="center">Bem-vindo(a) ao meu perfil 🖥️⌨️<h1>
- <h3 align="center">Sou formado em Sistema de Informação (Bacharel), desenvolvedor web e apaixonado por tecnologia.<h3>
+ <h2 align="center">Bem-vindo(a) ao meu perfil 🖥️⌨️</h2>
+ <p align="center">Sou formado em Sistema de Informação (Bacharel), desenvolvedor web e apaixonado por tecnologia.</p>
  <p align="justify">Atuo na área de informática há mais de 7 anos com suporte ao cliente, análise de infraestrutura e professor. Em 2022 iniciei minha transição de carreira para a área de desenvolvimento web e observo o mercado estudando as novas tecnologias para ficar atualizado.<br>Gosto de tecnologia desde que me entendo por gente. Fazer parte do futuro é uma honra, pois o futuro é agora.</p>
   
 <div align="center" valign="top"><br>
@@ -20,9 +20,9 @@
  
 <div align="center"><br>
    <p>👇 Segue o perfil das minhas redes sociais:</p>
-   <a href="https://www.instagram.com/oseias.n.m/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/oséias-nogueira-46a072a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="mailto:oseias.n.m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/oseiasnogueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="mailto:oseias.n.m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/oseias.n.m/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
 
 <div align="center">
