@@ -16,6 +16,19 @@
   <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/536/536452.png">
 <!--   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> -->
  </div><br>
+
+ <div align="center"><br>
+   <p>⚔ Soft Skills:</p>
+   <ol align="center">
+    <li>Trabalho em equipe</li>
+    <li>Facilidade na Comunicação Verbal.</li>
+    <li>Apresentação e Palestras.</li>
+    <li>Resiliência.</li>
+    <li>Flexibilidade.</li>
+    <li>Agilidade na solução de problemas.</li>
+    <li>Relacionamento Interpessoal.</li>
+   </ol>
+ </div>
  
 <div align="center"><br>
    <p>👇 Segue o perfil das minhas redes sociais:</p>
