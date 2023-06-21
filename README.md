@@ -19,7 +19,7 @@
 
  <div align="center"><br>
    <h3>⚔ Soft Skills:</h3>
-   <ul align="center">
+   <ul align="left">
     <li>Trabalho em equipe</li>
     <li>Facilidade na Comunicação Verbal.</li>
     <li>Apresentação e Palestras.</li>
