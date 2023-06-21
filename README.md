@@ -1,19 +1,13 @@
  <h1 align="center">Bem-vindo(a) ao meu perfil 🖥️⌨️<h1>
- <h3 align="center">Sou formado em sistema de informação (Bacharel), desenvolvedor Frontend e apaixonado por tecnologia.<h3>
+ <h3 align="center">Sou formado em Sistema de Informação (Bacharel), desenvolvedor web e apaixonado por tecnologia.<h3>
  <p align="justify">Atuo na área de informática há mais de 7 anos com suporte ao cliente, análise de infraestrutura e professor. Em 2022 iniciei minha transição de carreira para a área de desenvolvimento web e observo o mercado estudando as novas tecnologias para ficar atualizado.<br>Gosto de tecnologia desde que me entendo por gente. Fazer parte do futuro é uma honra, pois o futuro é agora.</p>
   
- <div align="center">
-  <a href="https://github.com/oseiasWeb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oseiasWeb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiasWeb&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
- 
 <div align="center" valign="top"><br>
  <p>🕹️ Habilidades em ascensão:</p>
 
-<!--   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-<!--   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> -->
-<!--   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
