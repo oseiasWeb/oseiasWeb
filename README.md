@@ -1,5 +1,11 @@
  <h2 align="center">Bem-vindo(a) ao meu perfil 🖥️⌨️</h2>
- <p align="justify">Sou formado em Sistema de Informação (Bacharel). Atuo na área de informática há mais de 7 anos com suporte ao cliente, análise de infraestrutura e professor. Em 2022 iniciei minha transição de carreira para a área de desenvolvimento web e observo o mercado estudando as novas tecnologias para ficar atualizado. Gosto de tecnologia desde que me entendo por gente. Fazer parte do futuro é uma honra, pois o futuro é agora.</p>
+ <p align="justify">Sou formado em Sistema de Informação (Bacharel) e apaixonado por tecnologia. 👨‍🎓
+
+Atualmente estou em transição para a área de desenvolvimento web. Estou concluindo o Curso DevQuest com mentorias em grupo. O curso é focado no desenvolvimento web Frontend/Backend e tem uma comunidade com mais de 400 pessoas que ajuda muito quem está iniciando, assim posso aprender e ensinar o que aprendi ao mesmo tempo. 🙌
+
+Gosto de tecnologia desde que me entendo por gente. Fazer parte do futuro é uma honra, pois o futuro é agora.
+
+Gosto de leitura, música e games. 📚 🎵 🎮</p>
 
 <div align="center"><br>
    <h3>⚔ Soft Skills:</h3>
